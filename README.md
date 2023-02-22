@@ -1,3 +1,3 @@
-# curso-django-projeto1
+# curso-django-project1
 
-Projeto realizado durante o curso de Django
+project realizado durante o curso de Django
